@@ -31,11 +31,13 @@ Carregamento e Pré-processamento dos Dados:
 
 - Treina um modelo de Regressão Linear usando o scikit-learn.
 - Calcula previsões e avalia o desempenho do modelo usando MAE e MSE.
-- Modelo de Árvore de Decisão:
+
+### Modelo de Árvore de Decisão:
 
 - Treina um modelo de Regressor de Árvore de Decisão usando o scikit-learn.
 - Calcula previsões e avalia o desempenho do modelo usando MAE e MSE.
-- Modelo de Vizinhos Mais Próximos (KNN):
+
+### Modelo de Vizinhos Mais Próximos (KNN):
 
 - Treina um modelo de Regressor de Vizinhos Mais Próximos (KNN) usando o scikit-learn.
 - Calcula previsões e avalia o desempenho do modelo usando MAE e MSE.
